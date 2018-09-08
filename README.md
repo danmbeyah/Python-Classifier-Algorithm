@@ -6,7 +6,7 @@ This is an implementation of machine learning classifiers in Python using differ
 1. Install Anaconda (https://www.anaconda.com/download)
 
 # Run
-1. Launch Anaconda
+1. Launch Anaconda (Avails Sci-Kit package: http://scikit-learn.org/stable/)
 2. Launch Jupiter Notebook
 3. Run your preferred algorithm
 
