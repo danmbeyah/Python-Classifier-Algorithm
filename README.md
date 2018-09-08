@@ -1,6 +1,6 @@
 # Python-Classifier-Algorithms
 This is an implementation of machine learning classifiers in Python using different algorithms
-1. Gaussian Naive Bayes
+1. Gaussian Naive Bayes (http://scikit-learn.org/stable/modules/naive_bayes.html)
 
 # Pre-requisite
 1. Install Anaconda (https://www.anaconda.com/download)
