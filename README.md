@@ -19,5 +19,6 @@ a) Decision Tree Regressor
 
 # Outcome
 Gaussian Naive Bayes classifier accuracy => 0.9414893617021277 (Consistent)
+
 Decision Tree Classifier accuracy => 0.9148936170212766 (Varies)
 
