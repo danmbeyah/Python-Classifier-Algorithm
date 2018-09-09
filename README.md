@@ -2,6 +2,8 @@
 This is an implementation of machine learning classifiers in Python using different algorithms
 1. Gaussian Naive Bayes (http://scikit-learn.org/stable/modules/naive_bayes.html)
 
+2. Decision Trees Classifier (http://scikit-learn.org/stable/modules/tree.html#classification)
+
 #To Do
 1. Decision Trees (http://scikit-learn.org/stable/modules/tree.html):
 a) Classification
